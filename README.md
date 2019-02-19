@@ -15,3 +15,8 @@ Running
 
     storm jar fastjoin-1.0-jar-with-dependencies.jar soj.biclique.KafkaTopology -n 48 --size 30G -t 2.2 -pr 24 -ps 24
 (Didi data have to be import before running)
+
+## Author and Copyright
+FastJoin is developed in Cluster and Grid Computing Lab, Services Computing Technology and System Lab, Big Data Technology and System Lab, School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China by Shunjie Zhou(zhoushunjie@hust.edu.cn), Fan Zhang(zhangf@hust.edu.cn), Hanhua Chen (chen@hust.edu.cn), Hai Jin (hjin@hust.edu.cn), Bing Bing Zhou (bing.zhou@sydney.edu.au)
+
+Copyright (C) 2019, STCS & CGCL and Huazhong University of Science and Technology.
